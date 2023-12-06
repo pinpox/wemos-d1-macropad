@@ -1,0 +1,4 @@
+*.FCBak
+tags
+tags.lock
+tags.temp
